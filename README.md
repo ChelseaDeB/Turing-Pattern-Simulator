@@ -2,7 +2,7 @@
 Turing Pattern Simulator 
 
 ## Description of the files
-- Tutorial.py demonstrates how to used the class (how to create simulations, run them, seed them)
+- TutorialFile.py demonstrates how to used the class (how to create simulations, run them, seed them)
   Can be deleted
 - RunSimulation.sh is the script to run it on terminal
 - TuringPatternSim.py is the file with class. This is the working code
