@@ -23,9 +23,9 @@ ExitOrContinue () {
 }
 
 InititalizeGraph() {
-	echo "Input the diffusion coefficient of activator'"
+	echo "Input the diffusion coefficient of activator"
 	read Da
-	echo "Input the diffussion coefficient of inhibitor'"
+	echo "Input the diffussion coefficient of inhibitor"
 	read Di
 	echo "Input the feed value"
 	read Feed
